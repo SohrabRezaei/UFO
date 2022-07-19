@@ -6,7 +6,8 @@ It is requested that we modify the UFO sightings website that we already have, w
 
 ## Results
 
-In the beginning, our original unfiltered table looks like the following image.[![image.png](https://i.postimg.cc/59YYRKyx/image.png)](https://postimg.cc/Thx3y9nS). Then, we choose one of the input boxes such as 'Enter a City' and write el cajon in order to filter the table based on that city. [![image.png](https://i.postimg.cc/KjDyWygq/image.png)](https://postimg.cc/64qS7gcn) Afterwards, it is possible to even filter the given table by choosing another input box such as 'Enter a Shape' and writing formation to grab one data only. [![image.png](https://i.postimg.cc/Pf4c0yRR/image.png)](https://postimg.cc/LhJN1tRt)
+In the beginning, our original unfiltered table looks like the following image.[![image.png](https://i.postimg.cc/59YYRKyx/image.png)](https://postimg.cc/Thx3y9nS)
+Then, we choose one of the input boxes such as 'Enter a City' and write el cajon in order to filter the table based on that city. [![image.png](https://i.postimg.cc/KjDyWygq/image.png)](https://postimg.cc/64qS7gcn) Afterwards, it is possible to even filter the given table by choosing another input box such as 'Enter a Shape' and writing formation to grab one data only. [![image.png](https://i.postimg.cc/Pf4c0yRR/image.png)](https://postimg.cc/LhJN1tRt)
 
 ## Summary
 
