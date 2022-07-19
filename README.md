@@ -1,4 +1,4 @@
-# UFO_Challenge
+# UFO
 
 ## Overview of Project
 
